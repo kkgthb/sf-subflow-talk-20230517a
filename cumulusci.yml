@@ -1,0 +1,7 @@
+project:
+  name: subflow-202305a
+  package:
+    name: Subflow 2023-05 presentation - before
+  git:
+    default_branch: 'main'
+  source_format: sfdx

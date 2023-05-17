@@ -1,0 +1,12 @@
+{
+  "orgName": "Subflow 2023-05 presentation - Before - Feature Test Org",
+  "edition": "Developer",
+  "settings": {
+    "securitySettings": {
+      "sessionSettings": {
+        "forceRelogin": false
+      }
+    }
+  },
+  "features": ["StateAndCountryPicklist"]
+}
